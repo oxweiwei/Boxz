@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到GitHub
 
-在这里编辑内容；
+### 在这里编辑内容；
 
 
 
@@ -15,9 +15,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
 - Bulleted
 - List
